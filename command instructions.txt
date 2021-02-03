@@ -1,0 +1,8 @@
+>> First clone git repo
+>> then npm install
+>> a sample command
+>> node index.js 10 40 ../../video/input/test.m3u8 ../../video/output/result.m3u8
+>> node script.js start_time time_duration  ../path/input.m3u8  ../output/output.m3u8
+
+>> Here 10 is the start time and its in seconds and 40 is the duration clip in seconds
+>>'../' to get the directory for the video input and output if it's in different folder. For root directory its './'
